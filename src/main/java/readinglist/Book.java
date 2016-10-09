@@ -18,7 +18,7 @@ public class Book {
 	private Long id;
 	private String reader;
 	private String isbn;
-	private String titie;
+	private String title;
 	private String author;
 	private String description;
 }
